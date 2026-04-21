@@ -1,0 +1,24 @@
+/*
+ID: 1011
+Name: Sphere
+Platform: Beecrowd
+Link: https://judge.beecrowd.com/en/problems/view/1011
+Date: 2024-02-23
+Language: C
+*/
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+
+int main (){
+    double pi, R, VOLUME;
+    
+    pi = 3.14159;
+    scanf("%lf", &R);
+    
+    VOLUME = (4/3.0 *pi*R*R*R);
+    printf("VOLUME = %.3lf\n", VOLUME);
+    
+    return 0;
+}
