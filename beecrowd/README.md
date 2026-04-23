@@ -1,86 +1,56 @@
-# 💻 Beecrowd Solutions
+# 🔴 Data Structures & Libraries
 
-This repository contains my solutions to problems from the **Beecrowd** platform.
+This directory contains solutions to **Data Structures and Libraries** problems from the Beecrowd platform.
 
-The goal of this project is to document my journey in programming and problem-solving, covering everything from basic concepts to more advanced challenges.
+All problems in this section were implemented using **C++**, taking advantage of the Standard Template Library (STL).
 
----
+## 🤔 What is this category about?
 
-## 📚 Categories
+These problems focus on the use of built-in data structures and libraries to solve challenges efficiently.
 
-Problems are organized by category, following the structure used on Beecrowd:
+Common structures include:
 
-* 🟢 **Beginner** — Fundamental concepts, but often with tricky logic
-* 🟡 **Ad-Hoc** — Pure problem-solving and simulation-based challenges
-* 🟣 **Strings** — String manipulation and pattern recognition
-* 🔴 **Data Structures & Libraries** — Stacks, queues, maps, sorting, etc.
-* ⚪ **Mathematics** — Number theory, arithmetic, and mathematical reasoning
-* 🔵 **Paradigms** — Dynamic programming, divide and conquer, backtracking
-* 🟠 **Graphs** — BFS, DFS, shortest paths, MST, and more
-* ⚫ **Computational Geometry** — Points, lines, polygons
-* 🟤 **SQL** — Database queries and data manipulation
+* 📦 `vector`
+* 📚 `stack`
+* 📥 `queue`
+* 🗂️ `map` / `unordered_map`
+* 🔢 `set` / `unordered_set`
+* 🔗 `list`
 
----
+Instead of building everything from scratch, the goal is to **choose the right structure** and use it effectively.
 
-## 🎯 Objectives
+## 🧠 Skills Developed
 
-* Strengthen programming fundamentals
-* Improve logical reasoning and problem-solving skills
-* Build consistency through regular practice
-* Create a well-structured portfolio for academic and professional growth
+* Understanding when to use each data structure
+* Efficient data organization and retrieval
+* Use of the C++ Standard Template Library (STL)
+* Writing cleaner and more optimized code
+* Reducing complexity with proper abstractions
 
----
+## ⚠️ Challenges
 
-## 🛠️ Technologies
+This category can be tricky because:
 
-* **Languages:** C / C++ (main focus)
-* **Tools:** Git, GitHub
-* **Environment:** Terminal / Vscode
+* Choosing the wrong structure can lead to inefficient solutions
+* Some problems require combining multiple data structures
+* Understanding STL behavior (ordering, performance, iterators) is essential
+* Edge cases still apply and must be handled carefully
 
----
+## 🛠️ Common Approach
 
-## 📌 Repository Structure
+When solving problems in this category:
 
-Each category is organized into its own folder:
+1. Identify what kind of data structure fits the problem
+2. Analyze time and space complexity
+3. Use STL features to simplify implementation
+4. Keep the code clean and efficient
 
-```id="b3k91p"
-beecrowd/
-│
-├── beginner/
-├── ad-hoc/
-├── strings/
-├── data-structures/
-├── mathematics/
-├── paradigms/
-├── graphs/
-├── geometry/
-└── sql/
-```
+## 📌 Structure
 
-Each file inside these folders corresponds to a specific problem.
+Each file represents an individual solution.
 
-Suggested naming pattern:
-
-```id="n8z4qp"
-1001-problem-number.c
-```
+1001-problem-name.cpp
 
 ---
 
-## 🚀 About This Project
-
-This repository is part of my journey as a Computer Science student, aiming to continuously improve my coding skills and deepen my understanding of algorithms and problem-solving.
-
----
-
-## 📬 Contact
-
-Feel free to connect or reach out:
-
-* GitHub: *https://github.com/brunnoalexcson*
-* LinkedIn: *https://www.linkedin.com/in/brunno-alexcson-835038329/*
-* Email: *brunnoalexcsontech@gmail.com*
-
----
-
-💡 *Consistency beats intensity. Solving one problem every day leads to real progress.*
+💡 *The right data structure can turn a complex problem into a simple one.*
