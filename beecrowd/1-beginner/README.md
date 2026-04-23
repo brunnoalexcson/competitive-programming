@@ -24,32 +24,16 @@ Even though these are classified as "Beginner" problems, many of them:
 
 * Include tricky edge cases
 * Require more refined logical thinking
-* Can be challenging for newcomers
-
-In short: don’t underestimate this category.
 
 ## 🛠️ Technologies
 
-* Language: C / C++ (or the language you are using)
-* Compiled via terminal or IDE
+* Language: C / C++
+* Compiled via IDE (Vscode)
 
 ## 📌 Structure
 
 Each file corresponds to a specific problem solution.
 
-Suggested naming convention:
-
-```id="x9f21a"
-problem_1001.c
-problem_1002.c
-...
-```
-
-## 🚀 Progress
-
-* Total problems solved: *(update here)*
-* Focus: consistency and continuous improvement
-
----
+1001_problem-name.c
 
 💡 *Strong fundamentals build strong developers.*
