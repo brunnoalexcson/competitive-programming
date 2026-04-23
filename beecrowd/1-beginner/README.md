@@ -34,6 +34,6 @@ Even though these are classified as "Beginner" problems, many of them:
 
 Each file corresponds to a specific problem solution.
 
-1001_problem-name.c
+1001-problem-name.c
 
 💡 *Strong fundamentals build strong developers.*
