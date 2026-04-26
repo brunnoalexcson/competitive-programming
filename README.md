@@ -77,6 +77,7 @@ This repository is part of my journey as a Computer Science student, aiming to c
 
 Feel free to connect or reach out:
 
+* Beecrowd: *https://judge.beecrowd.com/en/profile/956848*
 * GitHub: *https://github.com/brunnoalexcson*
 * LinkedIn: *https://www.linkedin.com/in/brunno-alexcson-835038329/*
 * Email: *brunnoalexcsontech@gmail.com*
